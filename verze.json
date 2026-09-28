@@ -1,6 +1,6 @@
 {
- "versionCode": 18,
- "versionName": "2.7",
- "apk": "https://ricmen111.github.io/h3-prompt/h3-prompt-2.7.apk",
- "novinky": "Zvuk sedí i venku: místo „room tone“ obecný zvuk místa z fotky"
+ "versionCode": 19,
+ "versionName": "2.8",
+ "apk": "https://ricmen111.github.io/h3-prompt/h3-prompt-2.8.apk",
+ "novinky": "Dlouhý klip 8 s jako v PocketComfy; kontrola délky počítá pohyby a je vidět vždy"
 }
