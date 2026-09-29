@@ -1,6 +1,6 @@
 {
- "versionCode": 19,
- "versionName": "2.8",
- "apk": "https://ricmen111.github.io/h3-prompt/h3-prompt-2.8.apk",
- "novinky": "Dlouhý klip 8 s jako v PocketComfy; kontrola délky počítá pohyby a je vidět vždy"
+ "versionCode": 20,
+ "versionName": "2.9",
+ "apk": "https://ricmen111.github.io/h3-prompt/h3-prompt-2.9.apk",
+ "novinky": "Podle nočního ladění: bez tmavnutí a zčernání, živější pohyb, přesné překlady akcí, co řádek to akce, přiblížení kamery, výchozí 5 s a rychlý beat"
 }
