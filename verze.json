@@ -1,6 +1,6 @@
 {
- "versionCode": 20,
- "versionName": "2.9",
- "apk": "https://ricmen111.github.io/h3-prompt/h3-prompt-2.9.apk",
- "novinky": "Podle nočního ladění: bez tmavnutí a zčernání, živější pohyb, přesné překlady akcí, co řádek to akce, přiblížení kamery, výchozí 5 s a rychlý beat"
+ "versionCode": 21,
+ "versionName": "3.0",
+ "apk": "https://ricmen111.github.io/h3-prompt/h3-prompt-3.0.apk",
+ "novinky": "Opravy překladu: sníh už není šlehačka, pusinky jsou pusy (kiss), nesmyslná věta o dalším miminku se vynechá s upozorněním, „your“ u miminka opraveno; řeč v uvozovkách se nepřekládá"
 }
